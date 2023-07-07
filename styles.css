@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    background-color: bisque;
+    justify-content: center;
+
+}
+
+h1 {
+    font-family: verdana;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+#info {
+    text-align: center;
+}
+
+
+#image {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#img-caption,
+#quote,
+#bottom {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#quote {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid 2px black;
+}
+
+#lines {
+    font-style: italic;
+}
+
+#bottom {
+    display: inline-block;
+    text-align: center;
+}
+
+#tribute-link {
+    text-align: center;
+}
